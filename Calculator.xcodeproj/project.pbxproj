@@ -100,7 +100,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0710;
-				ORGANIZATIONNAME = "Australia Post";
+				ORGANIZATIONNAME = Brenton;
 				TargetAttributes = {
 					84E6C2921BFA85C1002D7C71 = {
 						CreatedOnToolsVersion = 7.1;
@@ -294,6 +294,7 @@
 				84E6C2A71BFA85C1002D7C71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

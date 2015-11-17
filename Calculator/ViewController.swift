@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Calculator
-//
-//  Created by Brenton Currie on 17/11/2015.
-//  Copyright © 2015 Australia Post. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -26,8 +18,5 @@ class ViewController: UIViewController {
         
         print("digit = \(digit)")
     }
-    
-
-
 }
 
