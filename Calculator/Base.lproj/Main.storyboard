@@ -38,6 +38,7 @@
                                 <rect key="frame" x="28" y="469" width="102" height="123"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="."/>
                                 <connections>
                                     <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Eel-AL-QFG"/>
                                 </connections>
